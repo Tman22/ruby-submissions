@@ -21,5 +21,5 @@ Please submit a link to your repo:
 * Shannon Paige: https://github.com/ShannonPaige/module_3_assessment
 * Steve Pentler:
 * Steven Olson:
-* Taylor Moore:
+* Taylor Moore: https://github.com/Tman22/module_3_assessment
 * Toni Rib: https://github.com/ToniRib/module_3_assessment
